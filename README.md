@@ -72,31 +72,14 @@ My goal is to become a developer who can take an idea from **frontend → backen
 
 ---
 
-## 🚀 What I'm Currently Learning
+<h2 align="center">## 🚀 What I'm Currently Learning</h2>
 
-```text
-HTML / CSS
-     ↓
-JavaScript
-     ↓
-React
-     ↓
-TypeScript
-     ↓
-Node.js + Express
-     ↓
-REST APIs
-     ↓
-MongoDB / PostgreSQL
-     ↓
-Authentication & Security
-     ↓
-Full-Stack Applications
-     ↓
-Deployment & Cloud
-```
+<p align="center">
+  <img src="banner/roadmap.svg" width="100%" alt="My Learning Roadmap">
+</p>
 
 My current focus is not just learning technologies individually, but understanding **how they work together to build complete applications**.
+
 ## 🎯 My 2026 Goal
 
 > **Become a job-ready Full-Stack Web Developer.**
