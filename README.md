@@ -123,15 +123,24 @@ My learning path:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kamrulcode&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+<img
+  src="https://github-readme-stats-eight-theta.vercel.app/api?username=kamrulcode&show_icons=true&theme=tokyonight&hide_border=true"
+  alt="GitHub Stats"
+/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kamrulcode&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img
+  src="https://streak-stats.demolab.com/?user=kamrulcode&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
+/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamrulcode&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+<img
+  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kamrulcode&layout=compact&theme=tokyonight&hide_border=true"
+  alt="Most Used Languages"
+/>
 
 </div>
 
