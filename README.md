@@ -80,26 +80,6 @@ My goal is to become a developer who can take an idea from **frontend → backen
 
 My current focus is not just learning technologies individually, but understanding **how they work together to build complete applications**.
 
-## 🎯 My 2026 Goal
-
-> **Become a job-ready Full-Stack Web Developer.**
-
-My learning path:
-
-- ✅ HTML
-- ✅ CSS
-- ✅ JavaScript
-- 🟢 React
-- 🟢 TypeScript
-- 🔵 Node.js
-- 🔵 Express.js
-- 🔵 REST APIs
-- 🔵 Database
-- 🔵 Authentication
-- 🔵 Full-Stack Projects
-- 🔵 Deployment
-- 🔵 AI-powered web applications
-
 ---
 
 ## 📊 GitHub Stats
@@ -131,21 +111,42 @@ My learning path:
 
 ## 🤝 Connect With Me
 
-<div align="left">
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
 
-<a href="https://kamrullislam.webflow.io/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
+<table>
+  <tr>
+    <td align="center">
+      <a href="YOUR_LINKEDIN_URL">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      </a>
+    </td>
+    <td align="center">
+      <a href="[YOUR_PORTFOLIO_URL](https://kamrullislam.webflow.io/)">
+        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:kamrulislam.code@gmail.com">
+        <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.facebook.com/ikamrul7/">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://discord.gg/e8N32vqDe">
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+      </a>
+    </td>
+    <td align="center">
+    </td>
+  </tr>
+</table>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-</div>
 
 ---
 
