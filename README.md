@@ -83,29 +83,33 @@ My current focus is not just learning technologies individually, but understandi
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-
+<table>
+  <tr>
+    <td align="center">
 <img
   src="https://github-readme-stats-eight-theta.vercel.app/api?username=kamrulcode&show_icons=true&theme=tokyonight&hide_border=true"
   alt="GitHub Stats"
 />
-
-<br/><br/>
-
-<img
-  src="https://streak-stats.demolab.com/?user=kamrulcode&theme=tokyonight&hide_border=true"
-  alt="GitHub Streak"
-/>
-
-<br/><br/>
-
-<img
+    </td>
+    <td align="center">
+      <img
   src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kamrulcode&layout=compact&theme=tokyonight&hide_border=true"
   alt="Most Used Languages"
 />
-
-</div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img
+  src="https://streak-stats.demolab.com/?user=kamrulcode&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
+/>
+    </td>
+    <td align="center">
+     
+    </td>
+  </tr>
+</table>
 
 ---
 
