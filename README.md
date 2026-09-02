@@ -72,7 +72,7 @@ My goal is to become a developer who can take an idea from **frontend → backen
 
 ---
 
-<h2 align="center">## 🚀 What I'm Currently Learning</h2>
+
 
 <p align="center">
   <img src="banner/roadmap.svg" width="100%" alt="My Learning Roadmap">
