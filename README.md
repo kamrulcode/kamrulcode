@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<div align="center">
+  <img src="gitbanner.jpg" alt="Touhidur Zaman Banner" width="100%" />
+</div>
 <!--
 **kamrulcode/kamrulcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
