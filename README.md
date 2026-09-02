@@ -41,26 +41,22 @@ My goal is to become a developer who can take an idea from **frontend → backen
 
 ## 🛠️ Tech Stack
 
-### Frontend
-
 <div>
-  <div align="left">
+
+  <div align="center">
+    
+   ### Frontend 
     
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind)](https://skillicons.dev)
   </div>
   <div align="center">
 
-  ### Backend — Learning
+  ### Backend — Learning &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Database — Learning
     
-   [![My Skills](https://skillicons.dev/icons?i=express,postgres)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=express,postgres)](https://skillicons.dev) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    [![My Skills](https://skillicons.dev/icons?i=mongodb,nodejs)](https://skillicons.dev)
   </div>
-  <div align="center">
-
-  ### Database — Learning
-    
-   [![My Skills](https://skillicons.dev/icons?i=mongodb,nodejs)](https://skillicons.dev)
-  </div>
-   <div align="right">
+   <div align="center">
 
    ### Tools & Design
      
@@ -83,7 +79,7 @@ My goal is to become a developer who can take an idea from **frontend → backen
 ---
 
 ## 📊 GitHub Stats
-<table>
+<table align="center">
   <tr>
     <td align="center">
 <img
@@ -113,7 +109,7 @@ My goal is to become a developer who can take an idea from **frontend → backen
 
 ## 🤝 Connect With Me
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <a href="https://www.facebook.com/ikamrul7/">
@@ -130,8 +126,21 @@ My goal is to become a developer who can take an idea from **frontend → backen
         <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
       </a>
     </td>
+    <td>
+      <a href="YOUR_TWITCH_URL">
+  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
+</a>
+    </td>
+    <td>
+       <a href="YOUR_INSTAGRAM_URL">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+    </td>
   </tr>
   <tr>
+  <td>
+    
+  </td>
     
   <td align="center">
       <a href="https://discord.gg/e8N32vqDe">
@@ -143,8 +152,17 @@ My goal is to become a developer who can take an idea from **frontend → backen
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
       </a>
     </td>
+    <td>
+      <a href="YOUR_X_URL">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+    </a>   
+  </td>
+    <td>
+      
+  </td>
   </tr>
 </table>
+
 
 </br>
 
@@ -160,6 +178,10 @@ I don't want to just learn frameworks — I want to understand **how the web wor
 
 </br>
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
+</p>
+
 ---
 
 <div align="center">
@@ -169,5 +191,8 @@ I don't want to just learn frameworks — I want to understand **how the web wor
 ⭐ Thanks for visiting my profile!
 
 </div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kamrulcode&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
 
 ---
