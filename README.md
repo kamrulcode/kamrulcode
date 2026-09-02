@@ -134,11 +134,7 @@ My learning path:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamrulcode&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 
 </div>
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=kamrulcode&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamrulcode&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</div>
+
 ---
 
 ## 🤝 Connect With Me
