@@ -1,6 +1,7 @@
 <div align="center">
   <img src="banner/gitbanner.jpg" alt="Kamrul Islam Banner" width="100%" />
 </div>
+
 # 👋 Hi, I'm Kamrul Islam
 
 <div align="center">
@@ -12,6 +13,8 @@
 ### 💻 Building for the Web • 🚀 Learning Full Stack • 🧠 Solving Problems
 
 </div>
+
+<br />
 
 ---
 
@@ -32,53 +35,50 @@ My goal is to become a developer who can take an idea from **frontend → backen
 - 📚 Always learning and improving through projects
 - 🤝 Open to collaborating on interesting web projects
 
+</br>
+
 ---
 
 ## 🛠️ Tech Stack
 
 ### Frontend
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS"/>
-</p>
+<div>
+  <div align="left">
+    
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind)](https://skillicons.dev)
+  </div>
+  <div align="center">
 
-### Backend — Learning
+  ### Backend — Learning
+    
+   [![My Skills](https://skillicons.dev/icons?i=express,postgres)](https://skillicons.dev)
+  </div>
+  <div align="center">
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express.js"/>
-</p>
+  ### Database — Learning
+    
+   [![My Skills](https://skillicons.dev/icons?i=mongodb,nodejs)](https://skillicons.dev)
+  </div>
+   <div align="right">
 
-### Database — Learning
-
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
-</p>
-
-### Tools & Design
-
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
-</p>
+   ### Tools & Design
+     
+  [![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode)](https://skillicons.dev)
+  </div>
+</div>
 
 ---
 
-
+</br>
 
 <p align="center">
   <img src="banner/roadmap.svg" width="100%" alt="My Learning Roadmap">
 </p>
 
-My current focus is not just learning technologies individually, but understanding **how they work together to build complete applications**.
+<p align="center"> My current focus is not just learning technologies individually, but understanding **how they work together to build complete applications**. </p>
+
+</br>
 
 ---
 
@@ -98,30 +98,26 @@ My current focus is not just learning technologies individually, but understandi
 />
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <img
-  src="https://streak-stats.demolab.com/?user=kamrulcode&theme=tokyonight&hide_border=true"
-  alt="GitHub Streak"
-/>
-    </td>
-    <td align="center">
-     
-    </td>
-  </tr>
 </table>
 
+
+  <div align="center">
+      <img
+  src="https://streak-stats.demolab.com/?user=kamrulcode&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"/>
+    </div>
+    
+   </br>  
+ 
 ---
 
 ## 🤝 Connect With Me
 
-
-
 <table>
   <tr>
     <td align="center">
-      <a href="YOUR_LINKEDIN_URL">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      <a href="https://www.facebook.com/ikamrul7/">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
       </a>
     </td>
     <td align="center">
@@ -136,21 +132,21 @@ My current focus is not just learning technologies individually, but understandi
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <a href="https://www.facebook.com/ikamrul7/">
-        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-      </a>
-    </td>
-    <td align="center">
+    
+  <td align="center">
       <a href="https://discord.gg/e8N32vqDe">
         <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
       </a>
     </td>
     <td align="center">
+      <a href="YOUR_LINKEDIN_URL">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      </a>
     </td>
   </tr>
 </table>
 
+</br>
 
 ---
 
@@ -162,6 +158,8 @@ I'm currently focused on strengthening my fundamentals, building real-world proj
 
 I don't want to just learn frameworks — I want to understand **how the web works and how to build complete products from scratch **
 
+</br>
+
 ---
 
 <div align="center">
@@ -171,6 +169,5 @@ I don't want to just learn frameworks — I want to understand **how the web wor
 ⭐ Thanks for visiting my profile!
 
 </div>
-
 
 ---
