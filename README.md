@@ -97,5 +97,83 @@ Deployment & Cloud
 ```
 
 My current focus is not just learning technologies individually, but understanding **how they work together to build complete applications**.
+## 🎯 My 2026 Goal
+
+> **Become a job-ready Full-Stack Web Developer.**
+
+My learning path:
+
+- ✅ HTML
+- ✅ CSS
+- ✅ JavaScript
+- 🟢 React
+- 🟢 TypeScript
+- 🔵 Node.js
+- 🔵 Express.js
+- 🔵 REST APIs
+- 🔵 Database
+- 🔵 Authentication
+- 🔵 Full-Stack Projects
+- 🔵 Deployment
+- 🔵 AI-powered web applications
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kamrulcode&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kamrulcode&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamrulcode&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="left">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://kamrullislam.webflow.io/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
+
+---
+
+## ⚡ A Little More About Me
+
+I believe the best way to learn development is to **build things**.
+
+I'm currently focused on strengthening my fundamentals, building real-world projects, learning backend development, and gradually moving toward full-stack development.
+
+I don't want to just learn frameworks — I want to understand **how the web works and how to build complete products from scratch **
+
+---
+
+<div align="center">
+
+### 🚀 Learning → Building → Improving → Repeating
+
+⭐ Thanks for visiting my profile!
+
+</div>
+
 
 ---
