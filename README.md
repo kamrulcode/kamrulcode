@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+Developer;JavaScript+Enthusiast;Future+Full-Stack+Developer;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+Learner;JavaScript+Enthusiast;Future+Full-Stack+Developer;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br />
 
@@ -72,7 +72,9 @@ My goal is to become a developer who can take an idea from **frontend → backen
   <img src="banner/roadmap.svg" width="100%" alt="My Learning Roadmap">
 </p>
 
-<p align="center"> My current focus is not just learning technologies individually, but understanding **how they work together to build complete applications**. </p>
+<p align="center">
+  
+  My current focus is not just learning technologies individually, but understanding  **how they work together to build complete applications** .
 
 </br>
 
@@ -109,59 +111,54 @@ My goal is to become a developer who can take an idea from **frontend → backen
 
 ## 🤝 Connect With Me
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://www.facebook.com/ikamrul7/">
+<div align="center">
+  
+  <div align="center">
+     <a href="https://www.facebook.com/ikamrul7/">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
       </a>
-    </td>
-    <td align="center">
-      <a href="[YOUR_PORTFOLIO_URL](https://kamrullislam.webflow.io/)">
+   
+ 
+  <a href="[YOUR_PORTFOLIO_URL](https://kamrullislam.webflow.io/)">
         <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
       </a>
-    </td>
-    <td align="center">
-      <a href="mailto:kamrulislam.code@gmail.com">
+   
+    
+  <a href="mailto:kamrulislam.code@gmail.com">
         <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
       </a>
-    </td>
-    <td>
-      <a href="YOUR_TWITCH_URL">
+   
+    
+  <a href="YOUR_TWITCH_URL">
   <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
 </a>
-    </td>
-    <td>
-       <a href="YOUR_INSTAGRAM_URL">
+ 
+  <a href="YOUR_INSTAGRAM_URL">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-    </td>
-  </tr>
-  <tr>
-  <td>
+    </div>
+  
+  <div align="center">
+  
     
-  </td>
-    
-  <td align="center">
-      <a href="https://discord.gg/e8N32vqDe">
+
+   <a href="https://discord.gg/e8N32vqDe">
         <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
       </a>
-    </td>
-    <td align="center">
-      <a href="YOUR_LINKEDIN_URL">
+    
+   
+  <a href="YOUR_LINKEDIN_URL">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
       </a>
-    </td>
-    <td>
-      <a href="YOUR_X_URL">
+ 
+  <a href="YOUR_X_URL">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
     </a>   
-  </td>
-    <td>
+
       
-  </td>
-  </tr>
-</table>
+  
+  </div>
+</div>
 
 
 </br>
@@ -174,7 +171,7 @@ I believe the best way to learn development is to **build things**.
 
 I'm currently focused on strengthening my fundamentals, building real-world projects, learning backend development, and gradually moving toward full-stack development.
 
-I don't want to just learn frameworks — I want to understand **how the web works and how to build complete products from scratch **
+I don't want to learn frameworks — I want to understand **how the web works and how to build complete products from scratch**
 
 </br>
 
