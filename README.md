@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner/gitbanner.jpg" alt="Kamrul Islam Banner" width="100%" />
+  <img src="banner/gitbanner.png" alt="Kamrul Islam Banner" width="100%" />
 </div>
 
 # 👋 Hi, I'm Kamrul Islam
