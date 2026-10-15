@@ -105,10 +105,10 @@ My goal is to become a developer who can take an idea from **frontend → backen
 
 <div align="center">
 <br>
-<a href="https://www.facebook.com/ikamrul7/">
+<a href="https://www.facebook.com/ikamrul7">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
 </a>
-<a href="https://kamrullislam.webflow.io/">
+<a href="https://kamrullislam.webflow.io">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
 </a>
 <a href="mailto:kamrulislam.code@gmail.com">
